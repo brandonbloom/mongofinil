@@ -1,0 +1,3 @@
+test:
+  post:
+    - 'echo "hello" >> $CIRCLE_ARTIFACTS/hello.txt'
